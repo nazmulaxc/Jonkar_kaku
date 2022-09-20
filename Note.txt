@@ -1,0 +1,29 @@
+Fibonci;
+recursive functions;
+all_product and quanted ber kora;
+wild conting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+factorial junction() ----------------------------------------------------------
