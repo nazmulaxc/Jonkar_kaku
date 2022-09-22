@@ -27,6 +27,9 @@ document.getElementById('btnupdate').addEventListener('click',function(){
     
     let innch = document.getElementById('total');
         total.innerText =  totalMoney - inp;
+    
+    let clear = document.getElementById('widdrow');
+    clear.value = ''
 });
 
      

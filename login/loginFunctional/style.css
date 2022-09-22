@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(32, 75, 62);
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 41px;
+}
+
+p {
+  text-align: center;
+  font-size: 21px;
+  color: white;
+}
+
+span {
+  text-align: center;
+  font-size: 21px;
+  color: white;
+  margin-bottom: 4px;
+}/*# sourceMappingURL=style.css.map */
